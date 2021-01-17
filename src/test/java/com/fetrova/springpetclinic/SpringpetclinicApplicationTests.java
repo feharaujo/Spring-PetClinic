@@ -8,6 +8,7 @@ class SpringpetclinicApplicationTests {
 
     @Test
     void contextLoads() {
+        
     }
 
 }
