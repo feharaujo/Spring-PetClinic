@@ -1,0 +1,5 @@
+com/fetrova/springpetclinic/data/model/Person.class
+com/fetrova/springpetclinic/data/model/Pet.class
+com/fetrova/springpetclinic/data/model/Owner.class
+com/fetrova/springpetclinic/data/model/Vet.class
+com/fetrova/springpetclinic/data/model/PetType.class
