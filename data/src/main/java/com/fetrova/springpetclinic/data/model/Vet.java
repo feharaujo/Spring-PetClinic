@@ -1,4 +1,4 @@
 package com.fetrova.springpetclinic.data.model;
 
-public class Vet {
+public class Vet extends Person {
 }
