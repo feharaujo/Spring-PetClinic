@@ -1,6 +1,6 @@
 package com.fetrova.springpetclinic.data.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String name;
 
